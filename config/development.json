@@ -1,0 +1,6 @@
+{
+    "name": "My Express App - Deployment",
+    "mail": {
+        "host" : "development-mail-server"
+    }
+}
